@@ -113,29 +113,12 @@ MySQL | PostgreSQL | Linux | Windows Server | IIS | Nginx
 
 ---
 
-## 🏅 Certifications & Credentials
+## 🏅 Certifications & Achievements
 
-<div align="center">
+🥇 100 Days of DevOps — KodeKloud
 
-### Professional Certifications & Learning Achievements
+☁️ 100 Days of Cloud – AWS — KodeKloud
 
-</div>
+☁️ 100 Days of Cloud – Azure — KodeKloud
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-**☁️ AWS Cloud**
-
-<img src="./assets/certificates/aws-100-days.png" width="100%" alt="AWS 100 Days of Cloud Certificate"/>
-
-**100 Days of Cloud – AWS**
-
-KodeKloud
-
-</td>
-<td width="50%" align="center">
-
-**☁️ Azure Cloud**
-
-<img src="./assets/certificates/azure-100-days
+🔐 Certified Ethical Hacking (CEH) — FN Careers
